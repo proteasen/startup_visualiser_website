@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/jensenkoh/Desktop/padang/Sustainability research/asean-startups/myapp",
+        "app_url": "https://padangco.shinyapps.io/asean-startups/",
+        "app_id": 12761555,
+        "app_guid": null,
+        "title": "asean-startups",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
