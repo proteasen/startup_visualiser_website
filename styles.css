@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+:root {
+  --main-font: 'Ubuntu', sans-serif;
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --main-bg-color: #F0F0F0;
+}
+
+body {
+  background-color: var(--main-bg-color);
+  font-family: var(--main-font);
+}
+
+h3 {
+  color: var(--primary-color);
+}
+
+.ui-card {
+  background-color: var(--secondary-color);
+  padding: 20px;
+  border-radius: 5px;
+}
