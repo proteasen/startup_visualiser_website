@@ -1,0 +1,10 @@
+plotly
+plotly.express
+faicons
+shiny
+shinywidgets
+seaborn
+pandas
+matplotlib
+networkx
+rpy2
